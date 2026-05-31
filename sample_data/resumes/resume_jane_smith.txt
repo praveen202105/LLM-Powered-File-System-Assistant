@@ -1,0 +1,47 @@
+JANE SMITH
+jane.smith@email.com | (555) 987-6543 | linkedin.com/in/janesmith
+
+OBJECTIVE
+Data Scientist passionate about machine learning and predictive analytics.
+6+ years building data-driven solutions using Python and R.
+
+CORE COMPETENCIES
+- Programming: Python, R, SQL, Scala
+- ML/AI: TensorFlow, PyTorch, scikit-learn, XGBoost
+- Data Tools: Pandas, NumPy, Spark, Tableau
+- Databases: MySQL, PostgreSQL, BigQuery, Elasticsearch
+- Cloud: AWS SageMaker, Google Cloud AI Platform
+- Other: Git, Jupyter, Statistical Analysis, A/B Testing
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist | AnalyticsFirst (2020-Present)
+- Led team of 2 data scientists building Python-based ML pipeline
+- Developed predictive models using TensorFlow achieving 92% accuracy
+- Implemented automated data pipelines with Python ETL scripts
+- Reduced data processing time by 50% using Spark optimization
+- Presented insights to C-level executives using Tableau dashboards
+
+Data Scientist | InsightCorp (2018-2020)
+- Built recommendation engine in Python using scikit-learn and collaborative filtering
+- Conducted statistical analysis and A/B testing using R and Python
+- Managed PostgreSQL databases with 50GB+ datasets
+- Created automated reporting dashboards in Tableau
+
+Data Analyst | StartupAnalytics (2017-2018)
+- Wrote SQL queries for data extraction and transformation
+- Created Python scripts for data cleaning and validation
+- Built Excel dashboards and visualizations
+
+EDUCATION
+Master of Science in Data Science
+Tech University, 2017
+
+Bachelor of Science in Statistics
+State College, 2015
+
+PUBLICATIONS
+- "Scalable ML Pipelines with Python" (Published in Journal of Data Science, 2021)
+
+SKILLS SUMMARY
+Expertise in building end-to-end machine learning solutions with Python.
+Strong statistical foundation. Experience with R for statistical modeling.

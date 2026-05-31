@@ -1,0 +1,44 @@
+ALICE CHEN
+alice.chen@example.com | (555) 345-6789 | linkedin.com/in/alicechen
+
+SUMMARY
+Full Stack Web Developer with 4+ years building modern web applications.
+Expertise in React, Node.js, and TypeScript. Passionate about user experience and clean architecture.
+
+TECHNICAL EXPERTISE
+- Frontend: React, Vue.js, HTML5, CSS3, TypeScript, Webpack
+- Backend: Node.js, Express, NestJS, GraphQL
+- Databases: MongoDB, PostgreSQL, Firebase
+- Tools: Git, Docker, GitHub Actions, Webpack, Babel
+- Testing: Jest, React Testing Library, Cypress
+- Cloud: AWS, Netlify, Heroku
+
+PROFESSIONAL EXPERIENCE
+Senior Full Stack Developer | WebAppsInc. (2022-Present)
+- Led development of React application serving 100K+ monthly users
+- Implemented TypeScript across codebase improving code quality
+- Built GraphQL APIs with Node.js reducing client data transfer by 40%
+- Mentored 2 junior developers on React best practices
+
+Full Stack Developer | StartupHub (2020-2022)
+- Developed React frontend with Redux state management
+- Built Node.js REST APIs handling 10K requests/day
+- Implemented OAuth2 authentication flow
+- Deployed applications to AWS using Docker and GitHub Actions
+- Improved page load time by 50% through code optimization
+
+Junior Developer | WebStudio (2019-2020)
+- Built responsive websites using HTML5, CSS3, and JavaScript
+- Assisted with React component development
+- Learned Git workflow and CI/CD practices
+
+EDUCATION
+Bachelor of Computer Science
+University of Technology, 2019
+
+PROJECTS & CONTRIBUTIONS
+- Created open-source React component library with 2K+ GitHub stars
+- Contributed to Node.js and TypeScript communities
+
+CERTIFICATIONS
+- Advanced React Developer Certificate

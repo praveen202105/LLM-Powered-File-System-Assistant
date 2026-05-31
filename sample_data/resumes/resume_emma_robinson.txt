@@ -1,0 +1,48 @@
+EMMA ROBINSON
+emma.robinson@mail.com | (555) 567-8901 | linkedin.com/in/emmarobinson
+
+PROFESSIONAL SUMMARY
+Mobile App Developer specializing in iOS development and cross-platform solutions.
+6+ years building user-centric mobile applications with Swift, React Native, and Flutter.
+Strong background in performance optimization and accessibility standards.
+
+TECHNICAL SKILLS
+- iOS Development: Swift, SwiftUI, Objective-C, Cocoa Touch
+- Cross-Platform: React Native, Flutter, Dart
+- Databases: Core Data, SQLite, Firebase, Realm
+- Testing: XCTest, Detox, Jest
+- Cloud: Firebase, AWS Mobile, Google Cloud
+- Tools: Xcode, Git, GitHub, JIRA, TestFlight
+- Other: REST APIs, GraphQL, MVVM, SOLID principles
+
+PROFESSIONAL EXPERIENCE
+Senior iOS Developer | MobileFirst Solutions (2021-Present)
+- Led development of iOS app with 500K+ downloads
+- Implemented SwiftUI interface improving user engagement by 35%
+- Optimized app performance reducing launch time by 40%
+- Mentored team of 3 iOS developers on Swift best practices
+- Managed App Store deployments and release management
+
+Mobile Developer | AppStudio (2019-2021)
+- Developed iOS applications using Swift and SwiftUI
+- Built React Native cross-platform application
+- Implemented Firebase backend integration
+- Created unit and UI tests with XCTest and Detox
+- Collaborated with designers on UI/UX implementation
+
+Junior iOS Developer | StartupApps (2017-2019)
+- Developed iOS features in Swift
+- Maintained legacy Objective-C codebase
+- Participated in code reviews and learning sessions
+
+EDUCATION
+Bachelor of Science in Software Engineering
+Tech University, 2017
+
+CERTIFICATIONS
+- Apple Swift Certified Developer
+- Cross-platform Mobile Development Specialist
+
+APPS PUBLISHED
+- MyFitness App - 100K+ downloads, 4.7 rating
+- Travel Companion - Featured in App Store

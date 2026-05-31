@@ -1,0 +1,39 @@
+JOHN DOE
+john.doe@example.com | (555) 123-4567 | github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5+ years building scalable backend systems.
+Expertise in Python, Go, and cloud architecture. Passionate about clean code and performance optimization.
+
+TECHNICAL SKILLS
+- Languages: Python, Go, JavaScript, Java
+- Backend: Django, FastAPI, gRPC, REST APIs
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS (EC2, S3, Lambda), Google Cloud
+- Tools: Docker, Kubernetes, Git, Linux
+
+WORK EXPERIENCE
+Senior Software Engineer | TechCorp Inc. (2021-Present)
+- Designed and implemented microservices architecture in Go reducing latency by 40%
+- Led team of 3 engineers building Python-based data pipeline processing 1M+ events/day
+- Implemented CI/CD pipelines using GitHub Actions
+- Mentored junior developers in Python and system design
+
+Software Engineer | DataSystems LLC (2019-2021)
+- Built REST APIs in Python using FastAPI framework
+- Optimized PostgreSQL queries improving query performance by 60%
+- Managed AWS infrastructure using Terraform
+- Implemented Redis caching layer for high-traffic endpoints
+
+Junior Developer | StartupHub (2018-2019)
+- Developed full-stack JavaScript applications using React and Node.js
+- Built Python scripts for data processing and automation
+- Collaborated with product team on feature requirements
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, Graduated 2018
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- Go Advanced Developer Certification

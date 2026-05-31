@@ -1,0 +1,50 @@
+BOB JOHNSON
+bob@techmail.com | (555) 234-5678 | github.com/bobjohnson
+
+PROFILE
+DevOps Engineer with 7+ years infrastructure and deployment automation experience.
+Specialized in containerization, Kubernetes orchestration, and cloud platform management.
+Strong expertise in AWS and modern CI/CD practices.
+
+KEY SKILLS
+- Cloud Platforms: AWS, Google Cloud Platform, Azure
+- Container Tech: Docker, Kubernetes, Helm, Docker Swarm
+- CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
+- IaC: Terraform, CloudFormation, Ansible
+- Monitoring: Prometheus, Grafana, ELK Stack, Datadog
+- Scripting: Bash, Python, PowerShell
+- Databases: PostgreSQL, MySQL, MongoDB administration
+- Networking: Load balancing, DNS, VPN, Security groups
+
+PROFESSIONAL EXPERIENCE
+Senior DevOps Engineer | CloudSolutions Corp. (2021-Present)
+- Architected and managed Kubernetes clusters supporting 500+ microservices
+- Implemented Infrastructure-as-Code using Terraform managing 200+ AWS resources
+- Built Python automation scripts reducing manual operations by 70%
+- Managed CI/CD pipelines with Jenkins and GitHub Actions for 50+ teams
+- Implemented observability using Prometheus and Grafana across production
+
+DevOps Engineer | HostingPro (2018-2021)
+- Deployed and maintained Docker containers at scale
+- Implemented Kubernetes orchestration reducing deployment time by 80%
+- Built Ansible playbooks for infrastructure provisioning
+- Managed AWS infrastructure including EC2, S3, RDS, and Lambda
+- Set up monitoring and alerting with Prometheus and AlertManager
+
+Junior Systems Administrator | WebServers Inc. (2016-2018)
+- Managed Linux servers and infrastructure
+- Automated backup and disaster recovery procedures using Bash
+- Supported application deployments and troubleshooting
+
+EDUCATION
+Bachelor of Science in Information Technology
+Tech State University, 2016
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer Professional
+- Certified Kubernetes Administrator (CKA)
+- Linux Foundation Certified Associate
+
+LANGUAGES & TOOLS
+Proficient with Linux, AWS, Docker, and Kubernetes environments.
+Experienced in cost optimization and performance tuning.

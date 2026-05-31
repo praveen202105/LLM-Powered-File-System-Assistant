@@ -1,0 +1,45 @@
+CARLOS MARTINEZ
+carlos.m@email.com | (555) 456-7890 | github.com/carloscodes
+
+OBJECTIVE
+Experienced Java Developer with 8+ years building enterprise applications.
+Strong background in system design, microservices architecture, and team leadership.
+
+CORE COMPETENCIES
+- Languages: Java, Kotlin, SQL, Python, JavaScript
+- Frameworks: Spring Boot, Spring Cloud, Hibernate, JUnit
+- Databases: MySQL, Oracle, PostgreSQL, Cassandra
+- Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins
+- Architecture: Microservices, RESTful APIs, Event-driven systems
+- Tools: Maven, Gradle, Git, IntelliJ IDEA
+
+PROFESSIONAL EXPERIENCE
+Senior Java Engineer | EnterpriseApps Co. (2021-Present)
+- Architected microservices platform using Spring Boot serving 10M users
+- Designed and implemented event-driven system with Kafka
+- Managed teams of 4-5 junior developers
+- Improved system performance by 60% through optimization
+- Implemented automated testing with JUnit and Mockito
+
+Java Developer | FinTech Solutions (2018-2021)
+- Developed core banking APIs in Java Spring Boot
+- Implemented distributed transaction management
+- Optimized Oracle database queries improving response time
+- Built REST APIs handling 100K requests per minute
+- Contributed to microservices migration from monolith
+
+Junior Java Developer | SoftwareCorp (2015-2018)
+- Developed enterprise applications using Java and Spring Framework
+- Participated in code reviews and knowledge sharing
+- Learned industry best practices
+
+EDUCATION
+Bachelor of Science in Computer Science
+Engineering University, 2015
+
+CERTIFICATIONS
+- Oracle Certified Associate Java Programmer
+- AWS Solutions Architect Associate
+
+AWARDS
+- Employee of the Year, EnterpriseApps Co. (2022)
